@@ -30,10 +30,11 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express" height="50"/>
 
 ### Databases  
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" height="50"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 
 ### Programming Language
-<img src="https://skillicons.dev/icons?i=c,cpp" height="50"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python" height="50"/>
 
 ### Tools  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,ai,ps" height="50"/>
@@ -47,3 +48,7 @@
 
 > "Build with clarity. Design with purpose. Deliver with consistency."
 ---
+
+
+
+
